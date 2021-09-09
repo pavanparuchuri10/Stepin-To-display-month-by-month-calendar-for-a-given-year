@@ -9,8 +9,9 @@
 Folder             | Description
 -------------------| -----------------------------------------
 `1_Requirements`   | Documents detailing requirements and research
-`2_Design`         | Documents specifying design details
+`2_Architecture`   | Documents specifying architecture details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
-`5_ImagesAndVideos`| images of the implementation
-`6_Other`          | Any other files
+'5_report'         | projrct report
+`6_ImagesAndVideos`| images of the implementation
+`7_Other`          | Any other files
